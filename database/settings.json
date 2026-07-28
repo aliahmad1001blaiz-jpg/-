@@ -1,0 +1,18 @@
+{
+  "welcome": true,
+  "goodbye": true,
+  "antilink": false,
+  "antisticker": false,
+  "antivoice": false,
+  "antiimage": false,
+  "antivideo": false,
+  "antifile": false,
+  "antiforward": false,
+  "antishare": false,
+  "anticall": false,
+  "antitext": {
+    "enabled": false,
+    "limit": 80
+  },
+  "punishment": "delete"
+}
